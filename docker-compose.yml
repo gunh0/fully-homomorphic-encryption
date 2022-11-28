@@ -1,0 +1,9 @@
+version: '2'
+services:
+   ubuntu_20.04:
+      image: ubuntu:20.04
+      volumes:
+        - type: bind
+          source: ./
+          target: /work
+      tty: true
