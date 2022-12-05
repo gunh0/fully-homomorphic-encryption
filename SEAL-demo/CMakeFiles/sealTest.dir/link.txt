@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sealTest.dir/sealTest.cpp.o  -o sealTest  /usr/local/lib/libseal-4.0.a -pthread 
