@@ -29,3 +29,18 @@ loop 5 initialization
 loop 5 termination
 done in 1717.042725 seconds...
 ```
+
+<br/>
+
+<br/>
+
+### SEAL Test Result
+```
+root@d5d26e6d92c7:/work/SEAL-demo# ./sealTest
+encrypt and decrypt x = 3
+Number of slots: 4096
+
+    [ 3.0000000, 3.0000000, 3.0000000, ..., 3.0000000, 3.0000000, 3.0000000 ]
+
+time : 0.000000
+```
